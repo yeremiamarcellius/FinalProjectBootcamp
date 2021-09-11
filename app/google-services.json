@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494031237668",
+    "project_id": "finalprojectbootcamp-26609",
+    "storage_bucket": "finalprojectbootcamp-26609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494031237668:android:4c7fc7f99ef5cd508edeb1",
+        "android_client_info": {
+          "package_name": "app.yeremiamarcellius.finalprojectbootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494031237668-tm6h6147c2ltrc2gqte05htvqm77vmo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMGm-p4fK6OO0tv8vga6ua9KVG0SDeXG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494031237668-tm6h6147c2ltrc2gqte05htvqm77vmo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
